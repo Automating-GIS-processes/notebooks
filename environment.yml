@@ -1,0 +1,8 @@
+name: autogis-environment
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - geopandas
