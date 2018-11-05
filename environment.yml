@@ -6,3 +6,5 @@ channels:
 
 dependencies:
   - geopandas
+  - pip:
+    - pycrs
