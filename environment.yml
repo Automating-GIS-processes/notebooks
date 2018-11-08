@@ -8,4 +8,4 @@ dependencies:
   - geopandas
   - geopy
   - pip:
-    - pip install git+https://github.com/mullenkamp/PyCRS.git
+    - git+https://github.com/mullenkamp/PyCRS.git
