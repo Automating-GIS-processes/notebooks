@@ -6,5 +6,6 @@ channels:
 dependencies:
   - python=3.5
   - geopandas
-  - pycrs
   - geopy
+  - pip:
+    - pip install https://github.com/mullenkamp/PyCRS/archive/master.zip
