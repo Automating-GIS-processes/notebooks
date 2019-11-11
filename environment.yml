@@ -8,6 +8,7 @@ dependencies:
   - geopandas
   - pyproj=2.4.0
   - geopy
+  - geojson
   - bokeh
   - contextily
   - matplotlib
