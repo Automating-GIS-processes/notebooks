@@ -16,5 +16,3 @@ dependencies:
   - mplleaflet
   - geoplot
   - osmnx
-  - pip:
-    - git+https://github.com/mullenkamp/PyCRS
