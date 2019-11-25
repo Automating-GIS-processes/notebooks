@@ -9,3 +9,5 @@ dependencies:
   - geojson
   - matplotlib
   - mapclassify
+  - folium
+  - mplleaflet
