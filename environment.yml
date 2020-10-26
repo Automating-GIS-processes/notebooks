@@ -4,10 +4,18 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.7
+  - python=3.8
+  - matplotlib
   - geopandas
   - geojson
-  - matplotlib
+  - pysal
   - mapclassify
+  - osmnx
+  - pyrosm
+  - geopy
+  - geojson
+  - rasterio
+  - contextily
   - folium
   - mplleaflet
+  - bokeh
